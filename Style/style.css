@@ -74,10 +74,18 @@ body{
 
 .card{
 
-    display: inline-block;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    margin-left: 34px;
+    float: left;
+    width: 32%;
+    box-sizing: border-box;
+}
+
+.card img {
+    width: 100%;
+    display: block;
+}
+
+.card_01, .card_02{
+    margin-right: 2%;
 }
 
 .card p{
@@ -86,7 +94,9 @@ body{
     color: white;
     padding: 15px;
     margin: 0px;
+   
 }
+
 
 main{
 
@@ -98,6 +108,7 @@ main{
     background-color: white;
     margin-top: 15px;
     padding: 15px;
+    overflow: auto;
 }
 
 .content-section header h2{
