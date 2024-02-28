@@ -6,8 +6,8 @@
 
 # Curso Web Fundamentos
 
-Recriação de site passado como sugestão passado pelo
-meu professor do curso de Web Design, resolvi recriá-lo
+Recriação de site passado como sugestão pelo
+meu orientador do curso de Desenvolvimento Front-end, resolvi recriá-lo
 e registrar para melhor fixação de aprendizado.
 
 
